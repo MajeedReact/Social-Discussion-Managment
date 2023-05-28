@@ -4,9 +4,10 @@ This is one of tuwaiq bootcamp assignment it is a social discussion managment co
 ## Functionalities
 - Login
 - Register
+- Delete user
+- Update a user
 - Add post
 - Delete post
 - Get all comments for a post
-- Delete user
 - Create comment
 - Delete a comment
